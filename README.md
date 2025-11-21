@@ -38,7 +38,7 @@ A gesture-based real-time sign recognition system using **MediaPipe**, **ROI-bas
 - Real-time hand tracking  
 - MobileNet CNN classifier  
 - Streamlit cinematic UI  
-- Text-to-speech output  
+- Text-to-speech output 
 - Open palm = space gesture  
 - Auto-deletes RAW frames  
 
